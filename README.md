@@ -4,4 +4,4 @@ I'm Berkay, and I'm sophomore Mathematical Engineering student at Yildiz Technic
 
 I do researches related to blockchain, cyber-security, cryptography, and data privacy.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi)](https://github.com/berkayahi/berkayahi)
