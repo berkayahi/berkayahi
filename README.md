@@ -11,5 +11,12 @@ I do researches related to blockchain, cyber-security, cryptography, and data pr
 <li>ESN YILDIZ (2021 - 2022) --> Web Project Administrator</li><br>
 Currently I am a board member at YTU Blockchain student club where we are trying to improve ourselves at blockchain technology related topics.
 
+## Fields of Interest
+<li>Blockchain</li>
+<li>Cyber Security and Data Privacy</li>
+<li>Cryptography</li>
+<li>Mathematics</li>
+<li>Philosophy & Sociology</li>
+
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi)](https://github.com/berkayahi/berkayahi)
