@@ -1,5 +1,7 @@
 ## Hello There 👋
 
+<a href=”https://www.linkedin.com/in/berkayahi"><img align=”left” src=”https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/> </a>
+
 I'm Berkay, and I'm sophomore Mathematical Engineering student who is full-time learner and part-time backpacker.
 
 I do researches related to blockchain, cyber-security, cryptography, and data privacy.
