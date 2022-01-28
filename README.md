@@ -19,4 +19,4 @@ Currently I am a board member at YTU Blockchain student club where we are trying
 <li>Philosophy & Sociology</li>
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi)](https://github.com/berkayahi/berkayahi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi&theme=merko&show_icons=true)](https://github.com/berkayahi/berkayahi)
