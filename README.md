@@ -11,10 +11,10 @@ I do researches related to blockchain, cyber-security, cryptography, and data pr
 
 ## Communities
 
-<li>YTU Blockchain (2021 - ..)</li>
+<li>YTU Blockchain (2021 - 2022)</li>
 <li>YTU IEEE (2019 - 2020)</li>
 <li>ESN YILDIZ (2021 - 2022) --> Web Project Administrator</li><br>
-Currently I am a board member at YTU Blockchain student club where we're trying to improve ourselves at blockchain technology related topics.
+I was a board member at YTU Blockchain student club where we were trying to improve ourselves at blockchain technology related topics.
 
 ## Fields of Interest
 <li>Blockchain</li>
