@@ -14,6 +14,7 @@ I'm Berkay, and I'm junior Mathematical Engineering student who is full-time lea
 <li>Cryptography</li>
 <li>Mathematics</li>
 <li>Philosophy & Sociology</li>
+<li>Photography</li>
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi&theme=merko&show_icons=true)](https://github.com/berkayahi/berkayahi)
