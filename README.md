@@ -8,11 +8,13 @@
 I'm Berkay, and I'm junior Mathematical Engineering student who is full-time learner and part-time backpacker.
 
 ## Fields of Interest 
+<li>Data Science</li>
+<li>Machine Learning</li>
+<li>Mathematics</li>
 <li>Web Development</li>
 <li>Blockchain</li>
 <li>Cyber Security and Data Privacy</li>
 <li>Cryptography</li>
-<li>Mathematics</li>
 <li>Philosophy & Sociology</li>
 <li>Photography</li>
 
