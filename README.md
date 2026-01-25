@@ -4,7 +4,7 @@
 <a href="mailto:berkayahi@gmail.com"> <img align="left" alt="Mail to Berkay" width="25px" src="https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/gmail.svg"/></a>
 <br>
 
-I'm Berkay, and I'm Mathematical Engineering graduate who is full-time learner and part-time backpacker.
+I'm Berkay.
 
 ## Fields of Interest 
 <li>Data Engineering & Machine Learning & Data Science</li>
