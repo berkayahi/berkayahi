@@ -1,17 +1,9 @@
-## Hello There 👋
-<a href="https://www.linkedin.com/in/berkayahi"> <img align="left" alt="Berkay's LinkedIn" width="25px" src= "https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/linkedin.svg"/> </a>
-<a href="https://www.instagram.com/ahiontheway"> <img align="left" alt="Berkay's Instagram" width="25px" src= "https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/instagram.svg"/> </a>
-<a href="mailto:berkayahi@gmail.com"> <img align="left" alt="Mail to Berkay" width="25px" src="https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/gmail.svg"/></a>
-<br>
+i'm berkay. i build real-time, concurrent systems, mostly in go.
 
-I'm Berkay.
+i like fast data, correct code, and automating everything.
 
-## Fields of Interest 
-<li>Data Engineering & Machine Learning & Data Science</li>
-<li>Blockchain & Distributed Systems</li>
-<li>Cyber Security & Cryptography</li>
-<li>Mathematics</li>
+currently building an algorithmic trading platform for power markets. on the side, exploring new ideas in agentic workspaces.
 
+in my free time, i shoot photos, hike, and travel.
 
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayahi&theme=merko&show_icons=true)](https://github.com/berkayahi/berkayahi)
+always up to chat! [linkedin](https://www.linkedin.com/in/berkayahi) · [mail](mailto:berkayahi@gmail.com)
